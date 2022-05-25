@@ -24,7 +24,7 @@
         <taglibs.version>1.1.2</taglibs.version>
 
         <!-- spring security版本号 -->
-        <spring.security.version>5.0.1.RELEASE</spring.security.version>
+        <spring.security.version>5.5.7</spring.security.version>
     </properties>
 <dependencies>
     <!-- spring核心包 -->
